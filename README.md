@@ -15,7 +15,7 @@ I’m a **Frontend Engineer** passionate about transitioning into **Backend Deve
 
 ## 📫 How to Reach Me
 - **Email:** [strechii.mihaela@gmail.com](mailto:strechii.mihaela@gmail.com)  
-- **LinkedIn:** [Mihaela Melnic](https://www.linkedin.com/in/melnic-mihaela/)  
+- **LinkedIn:** [Mihaela Melnic](https://linkedin.com/in/mihaela-melnic/)  
 - **GitHub:** [@mms89mihaella](https://github.com/mms89mihaella)
 
 ## 😄 Pronouns
